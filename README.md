@@ -1,6 +1,7 @@
 # jupyter_pdf_simple_analysis
+<div style="text-align: justify">
 **Includes table data extraction from a pdf file to Jupyter, data cleaning and basic application of statistics and probability theory.**
----
+
 This is my first, public, data-driven analysis. It's not a complex project which involves large datasets, advanced analytics or Machine Learning techniques. Instead, I will present a simple analysis along with some statistical and probability theory concepts, as well as, my personal approaches to problem solving. keep reading and open the Jupyter file to see how I came up with the idea and the challenges I had dealt with. 
 
 This readme file was primarily created for motivational purposes. Specifically, I had been attempting to discover the "perfect" idea for a data-driven project over the last few months. As a result, I had been continuously postponing the real actions, such as, starting this kind of project. I hope my project along with this README will motivate potential Computer Science beginners who might lack the experience of taking real actions. 
