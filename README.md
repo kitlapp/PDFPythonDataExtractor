@@ -1,7 +1,7 @@
 # Data Extraction from PDF Using Python + Probability Theory Application
 This repository contains Python code for extracting table data from a PDF file. Jupyter Notebook is used as the main environment. Additionally, applications of probability theory are demonstrated based on the extracted data using simple Markdown syntax.
 
-## FILES INCLUDES
+## FILES INCLUDED
 1. PDF file (.pdf) X 1
 2) The main file (.ipynb) X 1
 3) The README file
