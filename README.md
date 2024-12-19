@@ -11,7 +11,7 @@ This repository contains Python code for extracting table data from a PDF file. 
 
 1) Download the project as a zipped file or clone the repository to your local machine.
 1) Open your Anaconda Prompt and type:
-   --> conda create -n <YourEnvName> python=3.11.8 pandas=2.2.1 camelot-py=0.9.0 pypdf2=2.12.1 notebook -c conda-forge
+   <br>--> conda create -n 'YourEnvName' python=3.11.8 pandas=2.2.1 camelot-py=0.9.0 pypdf2=2.12.1 notebook -c conda-forge
 2) Activate your newly-created environment.
 3) Launch Jupyter Notebook from Anaconda Prompt.
 4) Open the project's Jupyter Notebook named 'main'.
